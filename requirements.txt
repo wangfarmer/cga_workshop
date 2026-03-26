@@ -251,7 +251,6 @@ PyPika==0.48.9
 pyproj==3.7.0
 pyproject_hooks==1.2.0
 pyreadline3==3.5.4
-pyrobuf==0.9.3
 pyrosm==0.6.2
 python-dateutil==2.9.0.post0
 python-docx==1.2.0
