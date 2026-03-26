@@ -55,7 +55,6 @@ dirtyjson==1.0.8
 distro==1.9.0
 docstring_parser==0.16
 durationpy==0.9
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 et_xmlfile==2.0.0
 etelemetry==0.3.1
 exceptiongroup==1.2.2
@@ -101,7 +100,6 @@ grpc-google-iam-v1==0.14.0
 grpcio==1.69.0
 grpcio-status==1.69.0
 h11==0.14.0
-hpsklearn @ git+https://github.com/hyperopt/hyperopt-sklearn@4bc286479677a0bfd2178dac4546ea268b3f3b77
 httpcore==1.0.7
 httplib2==0.22.0
 httptools==0.6.4
