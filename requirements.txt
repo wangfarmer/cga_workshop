@@ -273,7 +273,6 @@ safetensors==0.4.5
 scikit-learn==1.5.2
 scipy==1.15.3
 seaborn==0.13.2
-shap==0.46.0
 shapely==2.1.1
 shellingham==1.5.4
 simplejson==3.20.1
@@ -312,8 +311,6 @@ typer==0.15.2
 typing-inspect==0.9.0
 typing_extensions==4.12.2
 tzdata==2024.2
-ultralytics==8.4.9
-ultralytics-thop==2.0.18
 uritemplate==4.1.1
 urllib3==2.2.3
 uv==0.6.6
