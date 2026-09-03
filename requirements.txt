@@ -15,7 +15,6 @@ attrs==24.2.0
 auth0-python==4.8.1
 backoff==2.2.1
 bcrypt==4.3.0
-beautifulsoup4==4.12.3
 blinker==1.9.0
 blis==1.2.0
 branca==0.8.1
